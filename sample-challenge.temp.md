@@ -1,3 +1,23 @@
+# Sample Challenge Template
+
+Here is a brief example of how the challenges are going to be  
+See `sample-chal.md` for ways to get started.
+
+`----.temp.md` stangs
+
+## File Extensions
+
+To run tests, run the following command
+
+```Javascript
+/**
+ * @extensions Name
+ * .temp.md -  sample templates
+ * .chal.md-challenge questions
+*/
+  touch filename.temp.md
+```
+
 # Build a RESTful API that allows users to manage their tasks
 
 **Objective:**

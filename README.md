@@ -2,6 +2,14 @@
 
 Luna Hacks 2.0
 
+## Contributing
+
+Contributions are always welcome!
+
+See `sample-challenge.temp.md` for ways to get started.
+
+<!-- Please adhere to this project's `code of conduct`. -->
+
 ## Authors
 
 - [@abel-masila](https://www.github.com/abel-masila)
