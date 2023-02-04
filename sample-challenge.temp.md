@@ -1,8 +1,6 @@
 # Build a RESTful API that allows users to manage their tasks
 
-```bash
- Objective
-```
+**Objective:**
 
 - Build an API that allows users to create, read, update and delete tasks.
 - The API should be built using a popular web framework such as Express.js or Flask.
@@ -16,25 +14,19 @@
 - The API should be deployed to a public cloud platform such as Heroku or Google Cloud.
 - The API should be documented using Swagger or OpenAPI
 
-```bash
-Deliverables
-```
+**Deliverables:**
 
 - The source code of the API, including any necessary configuration files and scripts.
 - A brief document describing how to run the API locally and how to deploy it to a public cloud platform.
 - The API documentation in the form of a Swagger or OpenAPI file.
 - A brief readme file that describes the API's functionality and how it was built.
 
-```
-Submission
-```
+**Submission:**
 
 - Share the link of the deployed app
 - Share the link of the code repository
 
-```bash
-Evaluation Criteria
-```
+**Evaluation Criteria:**
 
 - The API should be functional and meet all the requirements outlined in the objective.
 - The API should be well-designed, easy to understand and maintain.
