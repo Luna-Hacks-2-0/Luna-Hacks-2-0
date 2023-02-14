@@ -15,3 +15,5 @@ See `sample-challenge.temp.md` for ways to get started.
 - [@abel-masila](https://www.github.com/abel-masila)
 - [@mainawycliffe](https://www.github.com/mainawycliffe)
 - [@muli_eriq](https://www.github.com/muli_eriq)
+- [@roakoth](https://www.github.com/roakoth)
+- [@BKinya](https://www.github.com/BKinya)
