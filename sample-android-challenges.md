@@ -57,6 +57,7 @@ A Note taking app
 - Optimize the app for large screens and different form factors. Check this tutorial for guidelines: https://www.kodeco.com/34785195-large-screens-foldables-tutorial-for-android
 
 This project uses Jetpack Compose
+
 7. ### A blog or presentation
 Research and write a blog or prepare a presentaion about an Architecure design pattern. It could be MVVM, MVI or another design pattern. A sample project would be a bonus. 
 
