@@ -39,11 +39,12 @@ You can build an new project  or use an existing one. Optimize to survive config
 This project will use Android Architecture components: ViewModel, ViewModel saved state. For Jetpack Compose apps, check ```rememberSaveable``` Api.
 Check this blog for guidance: https://www.kodeco.com/33044382-surviving-configuration-changes-in-android
 
-5. ### Pagination
+4. ### Pagination
 **Level**: Intermediate/Advanced
 **Challenge Decription**
 Create an app that fetches large lists of data from the backend and use pagination to load and display data. 
-6. ### Note taking app
+
+5. ### Note taking app
 **Level**: Beginner, intermediate, advance
 **Challenge Description**
 A Note taking app
@@ -58,7 +59,7 @@ A Note taking app
 
 This project uses Jetpack Compose
 
-7. ### A blog or presentation
+6. ### A blog or presentation
 Research and write a blog or prepare a presentaion about an Architecure design pattern. It could be MVVM, MVI or another design pattern. A sample project would be a bonus. 
 
 #### Checklist
