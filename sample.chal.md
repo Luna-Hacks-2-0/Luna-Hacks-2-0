@@ -125,6 +125,17 @@ Writing code to sort a list is another classic computer science problem.
 
 Many languages contain classes that allow for the functionality of a random number generator, but we want you to create your own method that does this.
 
+###### **Create a text-based Tic-Tac-Toe Game (B)**
+
+Try building a tic-tac-toe game that is completely text-based!
+
+###### **Hack with Google Actions (B)**
+
+Ever wanted to build on Google Assistant? You can build your very own Google action to do anything you'd like and make your life easier.
+###### **Hack with Chat GPT (B)**
+
+Chat GPT has been all over our feeds lately, and we want to see what you can do with it! Build a hack with it.
+
 **Analyze your own Netflix Data (I)**
 Did you know you can download your watch data from Netflix or even your twitter data? Download a data set of your own an analyze it any way you'd like - create a graphic, predictions, or anything else you'd like. Share your data project on Devpost.
 
@@ -138,13 +149,7 @@ Velo is a great way to create a full stack data heavy website without having to 
 
 While building games with JavaScript, the possibilities are endless!
 
-###### **Create a text-based Tic-Tac-Toe Game (B)**
 
-Try building a tic-tac-toe game that is completely text-based!
-
-###### **Hack with Google Actions (B)**
-
-Ever wanted to build on Google Assistant? You can build your very own Google action to do anything you'd like and make your life easier.
 
 ###### **Explore web scraping (I)**
 
@@ -156,9 +161,7 @@ To complete the weekly challenge, simply download TwilioQuest, join the leaderbo
 **Build your own URL Shortener (I)**
 Try creating your own URL shorter to make easily sharable links!
 
-###### **Hack with Chat GPT (B)**
 
-Chat GPT has been all over our feeds lately, and we want to see what you can do with it! Build a hack with it.
 
 ###### **Create a Browser Extension (E)**
 
