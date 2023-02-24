@@ -98,26 +98,18 @@ We can just put all our current ideas for the content here. No need to format th
 
 **Challenge Ideas**
 
-**Key** 
+**Key**
+
 - Beginner **B**
 - Intermediate **I**
 - Experts **E**
 
-**Analyze your own Netflix Data (I)**
-Did you know you can download your watch data from Netflix or even your twitter data? Download a data set of your own an analyze it any way you'd like - create a graphic, predictions, or anything else you'd like. Share your data project on Devpost.
-
 **Build a Password Generator (B)**
 Security starts with a secure password! Create a hack to generate strong passwords and share it with us
-
-######
 
 ###### **Merge Two Sorted Lists (B)**
 
 We're bringing you another classic computer science problem today - merging sorted lists. Write code combine two already sorted lists and share it with us
-
-###### **Make a weather tracking website with historical data with Velo and GitHub in EditorX (I)**
-
-Velo is a great way to create a full stack data heavy website without having to worry about hosting or server infrastructure. EditorX offers a GitHub integration so you can manage your development with the version control while getting a typical node-style workflow with the Wix CLI. Check out how to get started using the Wix CLI early access documentation! You can find many open weather APIs at this GitHub repository. Share your site with us
 
 ###### **Create a Useless Hack (B)**
 
@@ -132,6 +124,15 @@ Writing code to sort a list is another classic computer science problem.
 ###### **Build a random number generator (B)**
 
 Many languages contain classes that allow for the functionality of a random number generator, but we want you to create your own method that does this.
+
+**Analyze your own Netflix Data (I)**
+Did you know you can download your watch data from Netflix or even your twitter data? Download a data set of your own an analyze it any way you'd like - create a graphic, predictions, or anything else you'd like. Share your data project on Devpost.
+
+######
+
+###### **Make a weather tracking website with historical data with Velo and GitHub in EditorX (I)**
+
+Velo is a great way to create a full stack data heavy website without having to worry about hosting or server infrastructure. EditorX offers a GitHub integration so you can manage your development with the version control while getting a typical node-style workflow with the Wix CLI. Check out how to get started using the Wix CLI early access documentation! You can find many open weather APIs at this GitHub repository. Share your site with us
 
 ###### **Design a JavaScript Game (I)**
 
@@ -300,11 +301,11 @@ Three-Dimensional models are important across many different industries. Use any
 
 ###### **Create a To-Do Kanban Board (I)**
 
-A checklist  is an important aspect of a developer .It helps you  get things done , but it also  helps  you stay organized .Create a to-do mobile app/web app that implements Kanban Board
+A checklist is an important aspect of a developer .It helps you get things done , but it also helps you stay organized .Create a to-do mobile app/web app that implements Kanban Board
 
 ###### **Get creative by using a Music API (B)**
 
-You might listen to music while hacking, but have you built anything for your music? Try building with a music API. Specify the Music API that you have used.(How you have used the API) 
+You might listen to music while hacking, but have you built anything for your music? Try building with a music API. Specify the Music API that you have used.(How you have used the API)
 
 ###### **Set up Monitoring on App Platform **
 
@@ -340,7 +341,7 @@ Take a stab at one of our favorite challenges - one button games. This is exactl
 
 ###### **Create a Budget Application (E)**
 
-Knowing and understanding where your money goes is a great first step to being confident with your finances. Build a project to help you create or understand a budget. You can use Firebase for authentication. 
+Knowing and understanding where your money goes is a great first step to being confident with your finances. Build a project to help you create or understand a budget. You can use Firebase for authentication.
 
 ###### **Create a Playlist Generator (E/ AI & ML)**
 
