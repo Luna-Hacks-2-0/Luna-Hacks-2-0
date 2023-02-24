@@ -136,6 +136,9 @@ Ever wanted to build on Google Assistant? You can build your very own Google act
 
 Chat GPT has been all over our feeds lately, and we want to see what you can do with it! Build a hack with it.
 
+**Play and Learn with TwiloQuest (B)**
+To complete the weekly challenge, simply download TwilioQuest, join the leaderboard, and play at least one mission.
+
 **Analyze your own Netflix Data (I)**
 Did you know you can download your watch data from Netflix or even your twitter data? Download a data set of your own an analyze it any way you'd like - create a graphic, predictions, or anything else you'd like. Share your data project on Devpost.
 
